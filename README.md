@@ -18,7 +18,7 @@
 
 <div align="left">
     <p>
-        <strong>synth-lang</strong> writes programs in a language it has never seen: given a forged grammar (lang-forge), it generates readable sample files for previews and tutorials, and large, valid-by-construction corpora for differential testing across LexerSketch's execution tiers.
+        <strong>synth-lang</strong> writes programs in a language it has never seen: given a forged grammar (lang-forge), it generates readable sample files for previews and tutorials, and large, valid-by-construction corpora for differential testing across the toolchain's execution tiers.
     </p>
     <br>
     <hr>

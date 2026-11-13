@@ -19,7 +19,7 @@ readme = "README.md"
 description = "Grammar-driven program synthesis: sample source files and fuzz corpora generated from a forged language's grammar."
 
 # Keywords (5 max)
-keywords = ["fuzzing", "grammar", "generator", "corpus", "lexersketch"]
+keywords = ["fuzzing", "grammar", "generator", "corpus"]
 
 # Categories
 categories = ["development-tools", "no-std"]
